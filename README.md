@@ -26,7 +26,7 @@ Nike's management wants to understand sales performance by region and by product
 
 **Performance Drivers page, Q4 selected.** Cards for revenue, units, average margin, average selling price and growth; contribution by product and region; quarterly growth; and profit contribution by region.
 
-01-performance-drivers-q4.png
+![Performance Drivers page with Q4 selected](01-performance-drivers-q4.png)
 
 **Performance Drivers page, full year.** Growth Rate% is only meaningful when a single quarter is selected. The full-year value (132.64%) compares the whole year with the first nine months, so it is not a quarter-on-quarter figure.
 
@@ -34,11 +34,11 @@ Nike's management wants to understand sales performance by region and by product
 
 **Quarterly revenue growth.** Q2 +167.21%, Q3 +275.68%, Q4 +81.16%. Q1 is blank because there is no earlier quarter. The Total row is not a quarterly growth rate.
 
-![Quarterly revenue growth table](screenshots/04-quarterly-growth-table.png)
+![Quarterly revenue growth table](04-quarterly-growth-table.png)
 
 **Overview page.** Profit margin, total revenue, actual revenue against budget (483.04K against 491.90K, 1.8% below), a date filter, monthly revenue trend, transactions per month, budget distribution by category, and the relationship between budget and profit by product. The MRP visuals show list price (MRP) by region, category and department.
 
-![Overview page](screenshots/03-overview-page.png)
+![Overview page](03-overview-page.png)
 
 ## Key findings
 
