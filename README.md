@@ -26,7 +26,7 @@ Nike's management wants to understand sales performance by region and by product
 
 **Performance Drivers page, Q4 selected.** Cards for revenue, units, average margin, average selling price and growth; contribution by product and region; quarterly growth; and profit contribution by region.
 
-![Performance Drivers page with Q4 selected](screenshots/01-performance-drivers-q4.png)
+01-performance-drivers-q4.png
 
 **Performance Drivers page, full year.** Growth Rate% is only meaningful when a single quarter is selected. The full-year value (132.64%) compares the whole year with the first nine months, so it is not a quarter-on-quarter figure.
 
