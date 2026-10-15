@@ -30,7 +30,7 @@ Nike's management wants to understand sales performance by region and by product
 
 **Performance Drivers page, full year.** Growth Rate% is only meaningful when a single quarter is selected. The full-year value (132.64%) compares the whole year with the first nine months, so it is not a quarter-on-quarter figure.
 
-![Performance Drivers page, full year](screenshots/02-performance-drivers-full-year.png)
+![Performance Drivers page, full year](02-performance-drivers-full-year.png)
 
 **Quarterly revenue growth.** Q2 +167.21%, Q3 +275.68%, Q4 +81.16%. Q1 is blank because there is no earlier quarter. The Total row is not a quarterly growth rate.
 
